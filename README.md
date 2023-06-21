@@ -449,8 +449,6 @@ Modifiers can do that too, but they also allow use to make powerful changes to o
 ![alt text](images/Wave.gif "A wavy grid")
 > A grid with the **Wave** modifier
 
-With practice, you can obtain stuff like this:
-
 So, where do we start ?
 
 We will head into the Properties Panel.
